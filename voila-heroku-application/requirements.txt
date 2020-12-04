@@ -1,0 +1,10 @@
+voila
+voila-material
+bqplot
+folium
+cufflinks
+plotly
+matplotlib
+seaborn
+scipy
+
